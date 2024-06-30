@@ -93,4 +93,4 @@ Desse modo, temos equipes em volta de responsabilidades de negócio e não em ca
 - Melhore o desempenho.
 ## 1.9 Serviços da AWS para práticas DevOps
 
-![](./img/06_services.PNG)
+![](./img/06_services.png)
