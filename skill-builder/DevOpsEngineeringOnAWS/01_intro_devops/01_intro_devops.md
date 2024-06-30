@@ -9,7 +9,7 @@ DevOps é uma combinação de filosofias culturais, práticas e ferramentas que 
 
 Na figura abaixo veja alguns exemplos de topologias e antitipos (antipadrões) de DevOps:
 
-![](./img/02_topologia.png)
+![](./img/02_topologia.PNG)
 
 - `1` - Silos de desenvolvedor e de operações: essa é uma topologia mais comum do que a maioria das pessoas acha. O desenvolvimento e as operações são entidades separadas que passam o produto entre as equipes.
 - `2` - Colaboração entre desenvolvedor e operação: essa topologia é um equilíbrio colaborativo entre o desenvolvimento e as operações. Há espaço suficiente para permitir que o desenvolvimento e as operações se especializem na própria área, mas se unam e colaborem para obter eficiência e um melhor produto final.
@@ -46,7 +46,7 @@ Propriedades de uma equipe pequena:
 
 ## 1.4 Fatores que impulsionam a transformação do DevOps
 
-![](./img/03_tripe.png)
+![](./img/03_tripe.PNG)
 
 Alinhamento da mentalidade organizacional, capacitação de engenharia e capacidação do desenvolvedor.
 
@@ -76,11 +76,11 @@ Pipeline em aplicações monolíticas:
 
 Na aplicação monolítica os desenvolvedores trabalham em cima de uma base de código que vai compreender todas as responsabilidades de negócio que eu tenho. Além disso, eu tenho um único pipeline de entrega de software para a base de código.
 
-![](./img/07_pipeline_monilitica.png)
+![](./img/07_pipeline_monilitica.PNG)
 
 Com microserviços eu do a possibilidade das minhas equipes de desenvolvimento de trabalharem de maneira independente, sendo donas de uma parte da aplicação (de uma responsabilidade de negócio). Desse modo, tem-se várias equipes de desenvolvedores trabalhando em um serviço particular, possibilitando ter uma esteira ou pipeline de entrega para cada serviço.
 
-![](./img/08_pipeline_micro.png)
+![](./img/08_pipeline_micro.PNG)
 
 Desse modo, temos equipes em volta de responsabilidades de negócio e não em camadas tecnológicas.
 
@@ -93,4 +93,4 @@ Desse modo, temos equipes em volta de responsabilidades de negócio e não em ca
 - Melhore o desempenho.
 ## 1.9 Serviços da AWS para práticas DevOps
 
-![](./img/06_services.png)
+![](./img/06_services.PNG)
